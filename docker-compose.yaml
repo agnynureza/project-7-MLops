@@ -1,0 +1,9 @@
+version: '1'
+services:
+  webserver:
+    build:
+      context: .
+    ports:
+      - 8765:8765/tcp
+    volumes:
+      - ./:/app 
