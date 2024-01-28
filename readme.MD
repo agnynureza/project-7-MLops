@@ -11,7 +11,7 @@ _Picture 1: docker-compose_
 _Picture 2: Prediction_
 
 ### Check Docker Running on Docker Client
-<img src="img/docker--server.png" width="700"/>
+<img src="img/docker-server.png" width="700"/>
 
 _Picture 3: docker UI_
 
